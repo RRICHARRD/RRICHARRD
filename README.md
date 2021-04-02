@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi, I'm Richard! 🤝🏻 
+
+Tecnologies I know and I'm currently learning.
+
+
 
 <!--
 **RRICHARRD/RRICHARRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
