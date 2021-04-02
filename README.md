@@ -3,7 +3,7 @@
 Tools I know and study day after day.
 
 <p align="center">
-  <a href="https://www.oracle.com/java/"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/java.png" target="_blank" alt="Angular-logo" width="30"/></a>
+  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/java.png" alt="Angular-logo" width="30"/></a>
   <a href="https://angular.io/"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/angular.png" alt="Angular-logo" width="55"/></a>
   <a href="https://www.javascript.com/"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/jslogo.png" alt="js-logo" width="50"/></a>
   <a href="https://www.w3.org/html/logo/"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/html5.png" alt="html5-logo" width="50"/></a>
