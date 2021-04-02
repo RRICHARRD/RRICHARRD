@@ -2,6 +2,16 @@
 
 Tecnologies I know and I'm currently learning.
 
+<p align="center">
+  <a href="https://angular.io/"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/angular.png" alt="Angular-logo" width="55"/></a>
+  <a href=""><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/jslogo.png" alt="Angular-logo" width="50"/></a>
+  <a href=""><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/html5.png" alt="Angular-logo" width="50"/></a>
+  <a href=""><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/css3.png" alt="Angular-logo" width="35"/></a>
+  <a href=""><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/spring.svg" alt="Angular-logo" width="50"/></a>
+  <a href=""><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/git.png" alt="Angular-logo" width="50"/></a>
+   <a href="https://mysql.com"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/mysql.png" alt="Angular-logo" width="70"/></a>
+</p>
+
 
 
 <!--
