@@ -18,7 +18,7 @@ Tools I know and study day after day.
 
 Java and OpenJDK are trademarks or registered trademarks of Oracle and/or its affiliates. Other names may be trademarks of their respective owners.<br />
 Angular logo are provided under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).<br />
-This HTML5 logo is licensed under Creative Commons Attribution 3.0 <br />
+This HTML5 logo is licensed under [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/) <br />
 Git Logo by [Jason Long](https://twitter.com/jasonlong) is licensed under the [Creative Commons Attribution 3.0 Unported License.](https://creativecommons.org/licenses/by/3.0/) <br />
 Spring is a trademark of Pivotal Software, Inc. in the U.S. and other countries. <br />
 
