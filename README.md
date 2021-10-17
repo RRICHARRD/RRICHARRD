@@ -4,7 +4,7 @@ Tools I know and study day after day.
 
 <p align="center">
   <a href="https://gcc.gnu.org/"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/c.png" alt="c-logo" width="45"/></a>
-  <a href="https://nodejs.org/en/"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/nodejs-black.svg" alt="node.js-logo" width="85"/></a>
+  <a href="https://www.python.org"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/python.png" alt="python-logo" width="45"/></a>
   <a href="https://www.javascript.com/"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/jslogo.png" alt="js-logo" width="50"/></a>
   <a href="https://git.scm.com"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/git.png" alt="git-logo" width="50"/></a>
   <a href="https://www.w3.org/html/logo/"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/html5.png" alt="html5-logo" width="50"/></a>
