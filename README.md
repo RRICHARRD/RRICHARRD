@@ -12,6 +12,7 @@ Tools I know and study day after day.
   <a href="https://www.oracle.com/java/"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/java.png" alt="Angular-logo" width="30"/></a>
   <a href="https://spring.io/"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/spring.svg" alt="Spring-logo" width="50"/></a>
   <a href="https://mysql.com"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/mysql.png" alt="mysql-logo" width="70"/></a>
+  <a href="https://postgresql.org"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/postgresql.png" alt="postgresql-logo" width="50"/></a>
 </p>
 
 
