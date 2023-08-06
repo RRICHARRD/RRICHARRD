@@ -1,11 +1,12 @@
-# Hi, I'm Richard! 🤝🏻 
+# Hi, I'm Richard! 🤝🏻
 
-Tools I know and study day after day.
+I have knowledge and experience with that technologies.
 
 <p align="center">
   <a href="https://gcc.gnu.org/"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/c.png" alt="c-logo" width="45"/></a>
   <a href="https://www.python.org"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/python.png" alt="python-logo" width="45"/></a>
   <a href="https://www.javascript.com/"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/jslogo.png" alt="js-logo" width="50"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/TSLogo.png" alt="ts-logo" width="50"/></a>
   <a href="https://git.scm.com"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/git.png" alt="git-logo" width="50"/></a>
   <a href="https://www.w3.org/html/logo/"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/html5.png" alt="html5-logo" width="50"/></a>
   <a href="https://www.w3schools.com/css/"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/css3.png" alt="css3-logo" width="35"/></a>
@@ -15,14 +16,6 @@ Tools I know and study day after day.
   <a href="https://postgresql.org"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/postgresql.png" alt="postgresql-logo" width="50"/></a>
 </p>
 
-
-#### Credits
-
-C - Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [www.flaticon.com](http://www.flaticon.com/).<br />
-Java and OpenJDK are trademarks or registered trademarks of Oracle and/or its affiliates. Other names may be trademarks of their respective owners.<br />
-This HTML5 logo is licensed under [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/).<br />
-Git Logo by [Jason Long](https://twitter.com/jasonlong) is licensed under the [Creative Commons Attribution 3.0 Unported License.](https://creativecommons.org/licenses/by/3.0/).<br />
-Spring is a trademark of Pivotal Software, Inc. in the U.S. and other countries. <br />
 
 <!--
 **RRICHARRD/RRICHARRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
