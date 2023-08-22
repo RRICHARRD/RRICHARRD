@@ -16,6 +16,7 @@ I have knowledge and experience with that technologies.
   <a href="https://mysql.com"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/mysql.png" alt="mysql-logo" width="70"/></a>
   <a href="https://postgresql.org"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/postgresql.png" alt="postgresql-logo" width="50"/></a>
   <a href="https://powerautomate.microsoft.com"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/Automate.svg" alt="Automate-logo" width="50"/></a>
+  <a href="https://www.microsoft.com"><img src="https://github.com/RRICHARRD/RRICHARRD/blob/master/tech-logos/sharepointLogo.png" alt="Sharepoint-logo" width="50"/></a>
 </p>
 
 
